@@ -1,3 +1,3 @@
-# Vehicle Database Project
+# Decoding Vehicle Data
 
-See the vehicle-database-filler.ipynb Jupyter notebook for the code that fills the database with vehicle data.
+See the decoding-vehicle-data.ipynb Jupyter notebook for the code that fills the database with vehicle data.
